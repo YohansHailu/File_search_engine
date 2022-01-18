@@ -1,2 +1,5 @@
 # File_search_engine
-course_work_for_course on OOP using java
+Gui based software to search files in computer
+# Usage
+  $ javac DocumentSearchEngine.java
+then run the compiled file 
